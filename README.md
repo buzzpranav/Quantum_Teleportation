@@ -2,7 +2,7 @@
 Qiskit Simulation Of The Quantum Teleportation Process Of A Single Quantum Bit Over A Fully-Entangled Channel.
 
 Open in Google Colab: https://colab.research.google.com/drive/1ke1t24idpjMXDOrEvY7IDFalxEdMPm8Y
-Open in IBM Quantum Composer: shorturl.at/hik36
+Open in IBM Quantum Composer: https://shorturl.at/hik36
 
 ## Problem Statement
 Lets say a person called Alice wants to send the qubit state
